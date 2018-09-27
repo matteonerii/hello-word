@@ -1,9 +1,8 @@
 # hello-word
-saluta il mondo
+questo bagaglio saluta il mondo
+così:
+hello word
 
 
-saluto sempre ciaoooooo!
 
 
-
-mi piace la scuola
