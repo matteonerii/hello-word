@@ -1,5 +1,5 @@
 # hello-word
-questo bagaglio saluta il mondo
+questo esercizio saluta il mondo
 così:
 hello word
 
